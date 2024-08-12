@@ -1,0 +1,6 @@
+framework module Pods_alura_geek {
+  umbrella header "Pods-alura geek-umbrella.h"
+
+  export *
+  module * { export * }
+}
